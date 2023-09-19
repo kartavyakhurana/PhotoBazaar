@@ -1,1 +1,1 @@
-# site is live at: https://photo-bazaar.netlify.app/
+# Site is live at: https://photo-bazaar.netlify.app/
